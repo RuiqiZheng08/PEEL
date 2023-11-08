@@ -11,4 +11,4 @@ The code has been tested under Python 3.6.9. The required packages are as follow
 
 
 
-![PEEL](Fig\PEEL.jpg)
+![PEEL](/Fig/PEEL.jpg)
