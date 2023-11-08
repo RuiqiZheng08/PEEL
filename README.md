@@ -36,3 +36,7 @@ python test.py
 ```
 
 It will output the recommendation performance of on-device recommendation under specific memory constraints. The memory budgets and other parameters are set in PEEL/NGCF/config_all.py.
+
+
+
+Note: If you have any questions or suggestions, please contact: *ruiqi dot zheng at uq dot edu dot au*
